@@ -1,2 +1,0 @@
-# SvdTestes
-Teste servidor
